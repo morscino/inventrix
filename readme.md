@@ -73,6 +73,15 @@ The admin user role, once authenticated, has the ability to perform CRUD operati
 
 Inventrix is connected to a Mysql database, it currently uses the users table, inventories table, and the reset_password table to perform all its funtions.
 
+## Test Users
+
+---admin user-role
+Email - tunde@tunixsystems.com
+password - 1234567
+
+---user user-role
+Email - morscino@gmail.com
+password - 1234567
 
 ##  License
 
